@@ -1,1 +1,3 @@
-#include <stdio.h>
+#Include <stdio.h>
+
+void main() { }
