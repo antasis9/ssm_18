@@ -1,6 +1,10 @@
-#Include <stdio.h>
-
+#include <stdio.h>
 
 void main() { }
 
-void printf() { }
+void printf() {
+	
+ }
+
+void printf2() {
+}
