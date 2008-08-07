@@ -1,1 +1,3 @@
-void main() { }
+Void main() { }
+
+void print() { }
