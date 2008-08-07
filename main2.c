@@ -1,3 +1,3 @@
-void main() {
-printf("implements");
- }
+Void main() { }
+
+void print() { }
