@@ -13,3 +13,5 @@ void printf2() {
 
 void ha() {  }
 void printf3() { }
+
+void print4() { }
