@@ -15,3 +15,5 @@ void ha() {  }
 void printf3() { }
 
 void speak() { }
+
+void speak2() { }
