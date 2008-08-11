@@ -10,4 +10,6 @@ void printf2() {
 }
 
 
+
 void ha() {  }
+void printf3() { }
