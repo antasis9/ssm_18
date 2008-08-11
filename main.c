@@ -8,3 +8,6 @@ void printf() {
 
 void printf2() {
 }
+
+
+void ha() {  }
