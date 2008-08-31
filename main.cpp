@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(1) { }
+void main(1)0 { }
 
 void printf() {
 	
