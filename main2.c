@@ -4,4 +4,3 @@ void print() { }
 
 void add() { }
 
-void add2() { }
