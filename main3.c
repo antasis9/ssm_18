@@ -1,6 +1,1 @@
-#dddddddddddddi11111111111aaaanclude <stdio.h>
-
-
-
-void main3() {
-}
+aaaa
