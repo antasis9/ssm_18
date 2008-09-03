@@ -3,6 +3,7 @@
 void main() { }
 
 void main2() {
+printf("!!!");
 }
 
 void main3() {
