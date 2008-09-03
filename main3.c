@@ -1,6 +1,5 @@
 aaaa
 
-void main() { }
 
 void main2() {
 implements
