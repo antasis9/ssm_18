@@ -2,6 +2,10 @@ aaaa
 
 void main() { }
 
-void main2() { }
+void main2() {
+implements
+}
 
 void main3() { }
+
+void main4() { }
